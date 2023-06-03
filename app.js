@@ -18,7 +18,7 @@ app.use(
       "https://myway-front.vercel.app",
       "http://localhost:3000",
       "http://localhost:4000",
-      "https://backend-3ydm.onrender.com",
+      "https://service-shop.onrender.com",
     ],
   })
 );
