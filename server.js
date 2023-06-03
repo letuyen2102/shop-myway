@@ -23,7 +23,7 @@ const io = new Server(server, {
       "https://myway-front.vercel.app",
       "http://localhost:3000",
       "http://localhost:4000",
-      "https://service-shop.onrender.com",
+      "https://backend-3ydm.onrender.com",
     ],
   },
 });
